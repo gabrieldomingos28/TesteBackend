@@ -1,8 +1,8 @@
-CREATE DATABASE TesteAM53
+CREATE DATABASE Teste
 
 GO
 
-USE  TesteAM53
+USE  Teste
 go 
 CREATE TABLE Produto(
 	Id int identity(1,1) primary key,
